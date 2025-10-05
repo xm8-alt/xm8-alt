@@ -1,5 +1,5 @@
 <h1 align="center">Jose Luis Agamez Lopez</h1>
-<h3 align="center">Desarrollador Web 🇨🇴</h3>
+<h3 align="center"> -- Desarrollador Web -- </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseagamez&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="joseagamez" /> </p>
 
@@ -25,6 +25,8 @@
     <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
     <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/joseagame_08">
       <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://wa.me/573014610269">
+      <img src="https://img.icons8.com/doodle/40/000000/whatsapp--v1.png"></a>
 		
 </p>
 
@@ -37,6 +39,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
