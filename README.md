@@ -48,6 +48,16 @@
 </p>
 
 ---
+  <br>
+<br>
+
+| Snake Eating Contributions in the last year |
+| ------------------------------------------|
+| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
+
+
+
+<div align="Center">
 
 <h3 align="center">📊 Estadísticas de GitHub</h3>
 
