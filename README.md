@@ -7,11 +7,11 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 Actualmente trabajando en proyectos de desarrollo web
-- 🌱 Aprendiendo y mejorando en **Git, JavaScript y desarrollo moderno**
+- 🔭 Actualmente trabajando en el desarrollo de una aplicacciones web
+- 🌱 Aprendiendo y mejorando en **Git,Angular y java con spring boot **
 - 🤝 Disponible para colaboraciones y proyectos freelance
 - 💬 Pregúntame sobre **desarrollo web y programación**
-- 📫 Cómo contactarme: **tu-email@ejemplo.com**
+- 📫 Cómo contactarme: **joseluisagamezlopez@gmail.com**
 - 📍 Ubicación: **Medellín, Colombia**
 
 <br/>
@@ -20,7 +20,7 @@
 
 <p align="center">
  <div align="center" class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/tu-usuario/">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/jose-luis-agamez-lopez-865667348/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_verification_details%3BTsw0cjB%2BTdGh%2FFOUeiY%2BFw%3D%3D/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/tu-usuario">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
