@@ -10,7 +10,6 @@
 - 🔭 Actualmente trabajando en el desarrollo de una aplicacciones web
 - 🌱 Aprendiendo y mejorando en Git,Angular y java con spring boot 
 - 🤝 Disponible para colaboraciones y proyectos freelance
-- 💬 Pregúntame sobre **desarrollo web y programación**
 - 📫 Cómo contactarme: **joseluisagamezlopez@gmail.com**
 - 📍 Ubicación: **Medellín, Colombia**
 
@@ -20,15 +19,13 @@
 
 <p align="center">
  <div align="center" class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;" target="_blank" href="https:/Jose Luis Agamez Lopez/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/tu-usuario">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/tu-usuario">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/tu-usuario">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png"></a>
-      </div>
+    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/jose-luis-agamez-lopez-865667348/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_verification_details%3BTsw0cjB%2BTdGh%2FFOUeiY%2BFw%3D%3D">
+      <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/xm8-alt">
+    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+    <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/joseagame_08">
+      <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		
 </p>
 
 ---
@@ -48,11 +45,11 @@
 <h3 align="center">📊 Estadísticas de GitHub</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xm8-alt&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xm8-alt&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
