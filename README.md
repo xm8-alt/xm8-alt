@@ -8,7 +8,7 @@
 </a>
 
 - 🔭 Actualmente trabajando en el desarrollo de una aplicacciones web
-- 🌱 Aprendiendo y mejorando en **Git,Angular y java con spring boot **
+- 🌱 Aprendiendo y mejorando en Git,Angular y java con spring boot 
 - 🤝 Disponible para colaboraciones y proyectos freelance
 - 💬 Pregúntame sobre **desarrollo web y programación**
 - 📫 Cómo contactarme: **joseluisagamezlopez@gmail.com**
