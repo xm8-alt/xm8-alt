@@ -2,7 +2,8 @@
   <img src="https://i.ibb.co/4f2v8fC/banner-dark-dev.gif" alt="Banner Desarrollador Web" width="100%" />
 </p>
 <h1 align="center">👨‍💻 Jose Luis Agamez Lopez</h1>
-<h3 align="center">💻 Desarrollador Web | Java | Angular | Spring Boot</h3>
+
+<h3 align="center">💻 Desarrollador Web | Angular | Spring Boot</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
