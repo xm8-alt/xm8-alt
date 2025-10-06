@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://i.ibb.co/4f2v8fC/banner-dark-dev.gif" alt="Banner Desarrollador Web" width="100%" />
 </p>
-
 <h1 align="center">👨‍💻 Jose Luis Agamez Lopez</h1>
 <h3 align="center">💻 Desarrollador Web | Java | Angular | Spring Boot</h3>
 
