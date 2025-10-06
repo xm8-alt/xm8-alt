@@ -77,15 +77,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://i.ibb.co/jM7NcgC/line-divider.gif" width="100%">
-</p>
-
-<p align="center">
-  💬 *“El código limpio siempre parece que fue escrito por alguien que se preocupaba.”*  
-</p>
-
 <p align="center">
   <b>Credit:</b> <a href="https://github.com/xm8-alt">Jose Luis Agamez Lopez</a>  
   <br>🕓 Última edición: 05/10/2025
